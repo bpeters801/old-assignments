@@ -1,0 +1,228 @@
+body {
+    background: gray;
+}
+   .france {
+        margin: 70px;
+        display: flex;
+    }
+    .france-1 {
+        background-color: #002495;
+        width: 100px;
+        height: 200px;
+        display: inline-block;
+    }
+    
+    .france-2 {
+        background-color: #FFFFFF;
+        width: 100px;
+        height: 200px;
+        display: inline-block;
+    }
+
+    .france-3 {
+        background-color: #ED2938;
+        width: 100px;
+        height: 200px;
+        display: inline-block;
+    }
+
+    .germany {
+        margin: 70px;
+    }
+
+    .germany-1 {
+        background-color: #000;
+        width: 333px;
+        height: 66.66px;
+      }
+      
+      .germany-2 {
+        background-color: #DE0002;
+        width: 333px;
+        height: 66.66px;
+      }
+      
+      .germany-3 {
+        background-color: #FFCE00;
+        width: 333px;
+        height: 66.66px;
+      }
+
+      .madagascar {
+          margin: 20px;
+      }
+
+
+
+      .mad-1 {
+          background-color: #FFFFFF;
+          height: 100px;
+          width: 200px;
+          position: absolute;
+          top: 700px;
+          transform: rotate(90deg);
+        }
+
+    .mad-2 {
+        background-color: #FC3E32;
+        height: 100px;
+        width: 200px;
+        position:absolute;
+        top: 750px;
+        left: 178px;
+    }
+
+    .mad-3 {
+        background-color: #007E39;
+        height: 100px;
+        width: 200px;
+        position: absolute;
+        top: 650px;
+        left: 178px;
+    }
+    
+
+    .switz-1 {
+        background-color: #FF0002;
+        height: 250px;
+        width: 250px;
+        position: absolute;
+        top: 900px;
+        left:80px;
+    }
+
+    .switz-2 {
+        background-color: #FFFFFF;
+        height: 175px;
+        width:45px;
+        position: absolute;
+        top:945px;
+        left: 179px;
+    }
+
+    .switz-3 {
+        background-color: #FFFFFF;
+        height:175px;
+        width: 45px;
+        position: absolute;
+        top: 945px;
+        left: 180px;
+        transform: rotate(90deg);
+    }
+
+    .sweden {
+        margin-top: 600px;
+        margin-left: 70px;
+    }
+
+    .sweden-1 {
+        background-color: #0269A6;
+        height: 187.5px;
+        width: 300px;
+    }
+
+    .sweden-2 {
+        background-color: #FECC00;
+        height: 188px;
+        width: 35px;
+        display: inline-block;
+        position: absolute;
+        top: 1228px;
+        left: 150px;
+    }
+
+    .sweden-3 {
+        background-color: #FFCE00;
+        height: 300px;
+        width: 35px;
+        position: absolute;
+        top: 1160px;
+        left: 210px;
+        transform: rotate(90deg);
+    }
+    .gambia {
+        margin-left: 70px;
+    }
+
+    .gambia-1 {
+        background-color: #CE1127;
+        height:50px;
+        width:300px; 
+    }
+
+    .gambia-2 {
+        background-color: #FFFFFF;
+        height: 25px;
+        width: 300px;
+    }
+
+    .gambia-3 {
+        background-color: #0D1D8B;
+        height: 50px;
+        width: 300px;
+    }
+    .gambia-4 {
+        background-color: #FFFFFF;
+        height: 25px;
+        width: 300px;
+    }
+
+    .gambia-5 {
+        background-color: #3B7827;
+        height: 50px;
+        width: 300px;
+    }
+
+    .japan {
+        margin-left: 70px;
+    }
+
+    .japan-1 {
+        background-color: #FFFFFF;
+        height: 200px;
+        width: 300px;
+    }
+
+    .japan-2 {
+        background-color: #BC022C;
+        border-radius: 50%;
+        vertical-align: middle;
+        position: absolute;
+        top: 1730px;
+        left: 165px;
+        width: 120px;
+        height: 120px;
+    }
+
+    .niger {
+        margin-left: 70px;
+    }
+
+    .niger-1 {
+        background-color: #E15307;
+        height: 57.14px;
+        width:200px;
+    }
+
+    .niger-2 {
+        background-color: #FFFFFF;
+        height: 57.14px;
+        width: 200px;
+    }
+
+    .niger-3 {
+        background-color: #10AF2A;
+        height: 57.14px;
+        width: 200px;
+    }
+    
+    .niger-4 {
+        background-color: #E15307;
+        border-radius: 50%;
+        vertical-align: middle;
+        width: 40px;
+        height: 40px;
+        position: absolute;
+        top: 1993px;
+        left: 156px;
+    }
