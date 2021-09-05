@@ -1,0 +1,26 @@
+
+body {
+    display: inline-block;
+    text-align: center;
+    font-family: fantasy, papyrus;
+    border-color: black;
+    border-style: dashed;
+    margin-left: 550px;
+    padding: 25px;
+}
+
+h1 {
+    font-style: italic;
+    color:  #006644;
+    font-size: 45px;
+    text-decoration: underline;
+}
+
+div {
+    font-weight: lighter;
+    padding: 15px;
+}
+
+#submit {
+    margin-top: 25px;
+}
