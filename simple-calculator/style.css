@@ -1,0 +1,50 @@
+body {
+    display: flexbox;
+    text-align: center;
+    font-size: 45px;
+    background-color: lavender;
+    font-family: cursive;
+}
+
+h1 {
+    font-style: italic;
+    font-weight: bold;
+    background-color: #CDFDF6;
+}
+
+#add {
+    font-size: 30px;
+    color: white;
+    border-style: dotted;
+    border-color: black;
+    background-color: thistle;
+    padding: 25px;
+}
+
+#subtract {
+    font-size: 30px;
+    color: white;
+    border-style: dotted;
+    border-color: black;
+    background-color: thistle;
+    padding: 25px;
+}
+
+#multiply {
+    font-size: 30px;
+    color: white;
+    border-style: dotted;
+    border-color: black;
+    background-color: thistle;
+    padding: 25px;
+}
+
+button {
+    background-color:#FEFDBF;
+    font-weight: bold;
+    font-size: 15px;
+}
+
+p {
+    font-size: 25px;
+}

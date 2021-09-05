@@ -21,10 +21,9 @@ let playerInfo = {
     damage: randomDamage(5, 20),
 }
 
-function Enemy (name, hp, damage) {
+function Enemy (name, hp,) {
     this.name = name
     this.hp = hp
-    this.damage = damage
 }
 
 function createEnemy () {
@@ -90,7 +89,7 @@ function run () {
     let runChance = Math.floor(Math.random () * 6)
     if (runChance > 3) {
         console.log ("You have escaped the enemy!")
-    } else if (runChance < 3) {
+    } else if (runChance <= 3) {
         console.log ("You couldn't escape the enemy and now are left to attack them.")
         attack ();
     }
