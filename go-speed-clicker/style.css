@@ -1,0 +1,9 @@
+body {
+    text-align: center;
+    font-family: "cursive", "lucida handwriting";
+}
+
+#button {
+    font-weight: bold;
+    background-color:#a0f7fa;
+}
